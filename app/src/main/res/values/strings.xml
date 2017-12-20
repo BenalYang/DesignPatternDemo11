@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DesignPatternDemo</string>
+    <string-array name="alg_sybmol">
+        <item>+</item>
+        <item>-</item>
+        <item>×</item>
+        <item>÷</item>
+    </string-array>
+    <string-array name="stategy">
+        <item>策略A</item>
+        <item>策略B</item>
+        <item>策略C</item>
+        <item>策略D</item>
+    </string-array>
+    <string-array name="decorator">
+        <item>扫地</item>
+        <item>洗碗</item>
+        <item>洗衣服</item>
+        <item>擦桌子</item>
+    </string-array>
+</resources>
